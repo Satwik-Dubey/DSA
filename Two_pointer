@@ -1,5 +1,0 @@
-Two Pointer/Sliding Window
-
-1. Constant Window
-
-        Q. Given an array with +ve and -ve integers  and given an integer k you have to figure out the max sum u can obtain by picking up 4 elements consecutively
